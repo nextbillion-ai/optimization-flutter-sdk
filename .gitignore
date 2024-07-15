@@ -1,0 +1,69 @@
+# Flutter related
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+/build/
+.flutter/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# VS Code related
+.vscode/
+
+# macOS
+.DS_Store
+
+# Linux
+linux/flutter/ephemeral/
+linux/flutter/generated_plugin_registrant.cc
+linux/flutter/CMakeFiles/
+
+# Windows
+windows/flutter/ephemeral/
+windows/flutter/generated_plugin_registrant.cc
+windows/flutter/runner/flutter_window.cpp
+windows/flutter/runner/flutter_window.h
+windows/flutter/runner/main.cpp
+windows/flutter/CMakeFiles/
+
+# Android Studio
+local.properties
+
+# Xcode
+ios/Flutter/.last_build_id
+ios/Flutter/flutter_export_environment.sh
+ios/ServiceDefinitions.json
+ios/Runner/GeneratedPluginRegistrant.*
+
+# Firebase
+ios/Runner/GoogleService-Info.plist
+android/app/google-services.json
+
+# Android
+**/gradle-wrapper.properties
+**/gradle-wrapper.jar
+**/gradlew
+**/gradlew.bat
+**/local.properties
+**/app/app.iml
+**/build/
+**/captures/
+**/output.json
+*.iml
+.idea/
+
+# Other
+*.log
+*.swp
+*.lock
+*.bak
+*.tmp
+*.temp
+*.orig
