@@ -9,7 +9,6 @@ The `optimization-flutter-sdk` is a powerful tool that helps businesses optimize
     - [Optimize Route with Multiple Waypoints](#optimize-route-with-multiple-waypoints)
     - [Optimize Route with Request Body](#optimize-route-with-request-body)
     - [Error Handling](#error-handling)
-- [Examples](#examples)
 - [License](#license)
 
 ## Initialization
