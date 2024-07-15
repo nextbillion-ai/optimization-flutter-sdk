@@ -1,6 +1,6 @@
 # optimization-flutter-sdk
 
-The `optimization-flutter-sdk` SDK provides tools for optimizing routes using the NextBillion API. This SDK allows you to plan routes with multiple waypoints and optimize them efficiently.
+The `optimization-flutter-sdk` is a powerful tool that helps businesses optimize their delivery routes to maximize efficiency, save time, and reduce costs. It is designed to solve both Single and/or Multi Vehicle Routing Problem (VRP), which is a classic optimization problem in operations research that involves finding the optimal set of routes for a fleet of vehicles to visit a set of locations while satisfying various constraints such as time windows, capacity, and vehicle availability.
 
 ## Table of Contents
 
@@ -77,3 +77,8 @@ try {
   }
 }
 ```
+
+### License
+BSD 3-Clause License
+
+Copyright (c) , NextBillion.ai
