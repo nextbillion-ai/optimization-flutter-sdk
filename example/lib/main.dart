@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:nb_navigation_flutter/nb_navigation_flutter.dart';
-import 'package:nb_optimization_navigation/optimization_flutter.dart';
+import 'package:nb_optimization_flutter/optimization_flutter.dart';
 import 'package:permission_handler/permission_handler.dart';
 import 'package:provider/provider.dart';
 
