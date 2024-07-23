@@ -1,5 +1,5 @@
 import 'package:flutter/cupertino.dart';
-import 'package:nb_optimization_navigation/optimization_flutter.dart';
+import 'package:nb_optimization_flutter/optimization_flutter.dart';
 
 class OptimizeRouteProvider extends ChangeNotifier {
   OptimizeRoute? _optimizeRoute;

@@ -5,7 +5,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:fluttertoast/fluttertoast.dart';
 import 'package:nb_navigation_flutter/nb_navigation_flutter.dart';
-import 'package:nb_optimization_navigation/optimization_flutter.dart';
+import 'package:nb_optimization_flutter/optimization_flutter.dart';
 import 'package:provider/provider.dart';
 import 'optimize_route_provider.dart';
 
